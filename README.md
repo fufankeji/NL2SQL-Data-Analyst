@@ -31,6 +31,10 @@ You can use natural language to query, aggregate, and visualize data from a data
 
 
 
+
+https://github.com/user-attachments/assets/d589470f-8bf9-41a9-a313-2d0d4c04f9c4
+
+
 ## 📁 Project Structure
 
 ```
